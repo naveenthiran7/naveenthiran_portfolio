@@ -724,6 +724,13 @@ img {
 {
     margin-right: 19px;
 }
+
+.side-react
+{
+    margin-right: 50px;
+}
+
+
 .side-jenkins
 {
     margin-right: 54px;
@@ -780,7 +787,7 @@ height: 150;
 }
 
 .certification-institution {
-    font-size: 1rem; /* Increased institution name size */
+    font-size: 1.5rem; /* Increased institution name size */
     color: #555;
 }
 
@@ -788,12 +795,6 @@ height: 150;
     font-size: 1rem; /* Increased year size */
     color: #777;
 }
-
-
-
-
-
-
 
 
 
