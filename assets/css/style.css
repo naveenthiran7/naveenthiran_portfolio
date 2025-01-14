@@ -344,15 +344,16 @@ h3{
 .skills-list{
     display: flex;
     flex-wrap: wrap;
-    gap: 5px;
+    gap: 10px;
 }
 .skills-list span{
-    font-size: 14px;
+    font-size: 50px;
     background: var(--first-color);
     color: var(--color-white);
-    padding: 2px 10px;
-    border-radius: 5px;
+    padding: 21px 10px;
+    border-radius: 11px;
 }
+
 
 /* ----- PROJECTS BOX ----- */
 .project-container{
@@ -720,31 +721,37 @@ img {
 .side-java {
     margin-right: 5px;
 } */
+
 .side-pods
 {
-    margin-right: 19px;
+    margin-right: 9px;
 }
 
 .side-react
 {
-    margin-right: 50px;
+    margin-right: 10px;
 }
 
-
+/* 
 .side-jenkins
 {
     margin-right: 54px;
-}
+} */
+ 
 .side-git
 {
-    margin-right: 74px;
+    margin-right: 5px;
 }
+
 .side-github
 {
-    margin-right: 65px;
+    margin-right: 4px;
+
+
+
 }
 .section__text__p1 {
-    text-align: center;
+    text-align:justify;
 }
 
 
@@ -752,7 +759,7 @@ img {
 
 /* Certifications Section */
 #certifications {
-    padding: 2rem 0;
+    padding: 2rem ;
     background-color: white;
 }
 
